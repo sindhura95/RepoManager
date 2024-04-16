@@ -30,4 +30,4 @@ Utilizes the simple-git library within a Next.js API route to clone the reposito
 If you face any issue in pushing the changes to Git Remote Repository, please check the `.env.local` file for the branch name and personal access token variables. Pushing to Git remote repository requires authentication and branch name as expected.
 
 # Demo
-For a quick preview check the video in demo/preview file
+For a quick preview check the video in `demo/preview` file
