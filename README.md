@@ -32,4 +32,4 @@ If you face any issue in pushing the changes to Git Remote Repository, please ch
 # Demo
 For a quick preview check the video in `demo/preview` file
 
-<video src='demo/preview.mov' width=180/>
+<video src='demo/preview.mov' width=180></video>
